@@ -14,7 +14,7 @@
 
 - 📝 I regularly post on [KasiMuthuveerappan](www.linkedin.com/in/kasimuthu)
 
-- 📫 How to reach me **kasi4muthu@outlook.com**
+- 📫 Mail me on **kasi4muthu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
