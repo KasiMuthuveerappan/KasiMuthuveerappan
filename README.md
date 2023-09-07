@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [KasiMuthuveerappan](https://github.com/KasiMuthuveerappan)
 
-- 📝 I regularly write articles on [KasiMuthuveerappan](www.linkedin.com/in/kasimuthu)
-
-- 💬 Ask me about **Data and models**
+- 📝 I regularly post on [KasiMuthuveerappan](www.linkedin.com/in/kasimuthu)
 
 - 📫 How to reach me **kasi4muthu@outlook.com**
 
@@ -31,8 +29,6 @@
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasimuthuveerappan&show_icons=true&locale=en&layout=compact" alt="kasimuthuveerappan" /></p>
-<p> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
