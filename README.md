@@ -1,32 +1,60 @@
+### 🙋 Introducing Myself
 ![MasterHead](https://github.com/KasiMuthuveerappan/8-week-SQL-challange/assets/142071405/b9c931e4-6b7b-4e3c-8311-340afa4eb0f7)
-<h1 align="center">Hey👋, This is Kasi_Muthuveerappan</h1>
+<h1 align="center">Hey  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, This is Kasi_Muthuveerappan</h1>
 <h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
 <h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b6&style=flat" alt="kasimuthuveerappan" /> </p>
+### 🤷‍♂️ About Me:
+### I'm a Data enthuiast with expertise in data analysis and reporting, query optimization, data modelling and data visualizations. 
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw">
-- 🔭 I’m and will be working on **Data science , AI and ML projects**
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQET0_JcAYNC2w/article-cover_image-shrink_720_1280/0/1684857772690?e=2147483647&v=beta&t=SByvZwhzwyMMohBD0JjiVySVWiZmDIkGsLan810l104">
 
-- 👨‍💻 All of my projects are available at [KasiMuthuveerappan](https://github.com/KasiMuthuveerappan)
+- Generate reports and perform data analysis by querying data using SQL.
+- Developing dashboards on Tableau and Excel.
+- Data analysis and reporting using Google Sheets and Excel.
+- currently learning Python and its libraries
 
-- 📝 I regularly post on [KasiMuthuveerappan](https://www.linkedin.com/in/kasimuthuveerappan)
+<details>
+<summary><b>👇🏼Connect with me</b></summary>
+<p>
+Feel free to text me !!!
 
-- 📫 Mail me on **kasi4muthu@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kasimuthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasimuthu" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kasimuthuveerappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kasimuthuveerappan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kasi4muthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kasi4muthu" height="50" width="70" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kasi_muthuveerappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kasi_muthuveerappan" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/kasi.muthuveerappan" target="blank"><img align="center" src="https://th.bing.com/th/id/R.863588a71e465cc3aa5d822c0feafea9?rik=MaLYxoUpnXH14Q&riu=http%3a%2f%2fwww.lib.washington.edu%2fdataservices%2fimages%2fTableau_Software_logo.png%2fimage&ehk=SikUlxN8Vy5hTdpsQWGXdXViPduw8csIv7euooUUzqM%3d&risl=&pid=ImgRaw&r=0" alt="https://public.tableau.com/app/profile/kasi.muthuveerappan" height="50" width="70" /></a>
+[![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
+[![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
+[![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](kasi4muthu@outlook.com)
 </p>
+</details>
+<details>
+<summary><b>🛠️ Tools & Languages</b></summary>
+<p>
+  Here are some of the Tools and Languages that I use:
+  
+- Database: Google BigQuery, PostgreSQL, MySQL >> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=plastic&logo=googledrive&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
+- Coding in ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) >> ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Visualization: ![Jenkins](https://img.shields.io/badge/Tableau-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+- generally used: ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=Stellar&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+  </p>
+</details>
+<details>
+  <summary><b>👇🏼FORUMs</b></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" /></p>
+  Here are some of the platforms where I Practice : 
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Kasi_Muthuveerappan)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kasi4muthu)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/kasimuthuveerappan)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kasimuthu)
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
+</details>
+<details>
+  <summary><b>📱Profile Stats</b></summary>
+  
+Statistics :
+<p> <align="Centre"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b6&style=flat" alt="kasimuthuveerappan" /> </p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
+</details>
