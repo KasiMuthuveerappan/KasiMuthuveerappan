@@ -1,18 +1,16 @@
-[![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)](www.linkedin.com/in/kasimuthu)
+![MasterHead](https://github.com/KasiMuthuveerappan/8-week-SQL-challange/assets/142071405/b9c931e4-6b7b-4e3c-8311-340afa4eb0f7)
 <h1 align="center">Hey👋, This is Kasi_Muthuveerappan</h1>
-<h3 align="center">I'm a passionate computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
+<h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
 <h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
-<img align="right" alt="Coding" width="400" src="https://b2bdataguy.com/wp-content/uploads/2018/11/dsafadsffasgt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b6&style=flat" alt="kasimuthuveerappan" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw">
 - 🔭 I’m and will be working on **Data science , AI and ML projects**
-
-- 🌱 I’m currently learning **Data science , AI & ML**
 
 - 👨‍💻 All of my projects are available at [KasiMuthuveerappan](https://github.com/KasiMuthuveerappan)
 
-- 📝 I regularly post on [KasiMuthuveerappan](www.linkedin.com/in/kasimuthu)
+- 📝 I regularly post on [KasiMuthuveerappan](https://www.linkedin.com/in/kasimuthuveerappan)
 
 - 📫 Mail me on **kasi4muthu@outlook.com**
 
