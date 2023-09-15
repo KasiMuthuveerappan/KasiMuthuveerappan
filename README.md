@@ -30,7 +30,7 @@ Feel free to text me !!!
 <p>
   Here are some of the Tools and Languages that I use:
   
-- Database: Google BigQuery, PostgreSQL, MySQL >> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=plastic&logo=googledrive&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+- Database: Google BigQuery, PostgreSQL, MySQL >> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=plastic&logo=googledrive&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 - Coding in ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) >> ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
@@ -56,5 +56,6 @@ Feel free to text me !!!
 Statistics :
 <p> <align="Centre"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b6&style=flat" alt="kasimuthuveerappan" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
 </details>
