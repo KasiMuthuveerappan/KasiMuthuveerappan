@@ -4,10 +4,11 @@
 <h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
 <h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
 
+
 ### 🤷‍♂️ About Me:
 ### I'm a Data enthuiast with expertise in data analysis and reporting, query optimization, data modelling and data visualizations. 
-
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
+
 
 - Generate reports and perform data analysis by querying data using SQL.
 - Developing dashboards on Tableau and Excel.
@@ -30,12 +31,12 @@ Feel free to text me !!!
 <p>
   Here are some of the Tools and Languages that I use:
   
-- Database: Google BigQuery, PostgreSQL, MySQL >> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=plastic&logo=googledrive&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+- Query Database:![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
-- Coding in ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) >> ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
+- Coding ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) in ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-- Visualization: ![Jenkins](https://img.shields.io/badge/Tableau-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-- generally used: ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=Stellar&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+- Visualization: ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+- Generally used: ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=MicrosoftClipchamp&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=Designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
   </p>
 </details>
 <details>
@@ -56,6 +57,5 @@ Feel free to text me !!!
 Statistics :
 <p> <align="Center"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b2&style=plastic" alt="kasimuthuveerappan" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasimuthuveerappan&show_icons=true&locale=en" alt="kasimuthuveerappan" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
 </details>
