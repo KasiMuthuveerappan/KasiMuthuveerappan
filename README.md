@@ -55,7 +55,13 @@ Feel free to text me !!!
   <summary><b>📱Profile Stats</b></summary>
   
 Statistics :
-<p> <align="Center"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=0e75b2&style=plastic" alt="kasimuthuveerappan" /> </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&" alt="kasimuthuveerappan" /></p>
+<p> <align="Center"> <img src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&theme=vision-friendly-dark&style=plastic" alt="kasimuthuveerappan" /> </p>
+
+![kasi's github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
 </details>
