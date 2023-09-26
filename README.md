@@ -1,11 +1,11 @@
-### 🙋 Introducing Myself
+## 🙋 Introducing Myself
 <kbd>![Linkedin BG - Copy1](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/4bda2b2f-341a-4fc7-9c3e-e267129a4651)
-<h1 align="center">Hey  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, This is Kasi_Muthuveerappan</h1>
+<h1 align="center">Hey  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, This is Kasi </h1>
 <h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
 <h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
 
 
-### 🤷‍♂️ About Me:
+## 🤷‍♂️ About Me:
 ### I'm a Data enthuiast with expertise in data analysis and reporting, query optimization, data modelling and data visualizations. 
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
 
