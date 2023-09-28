@@ -12,16 +12,16 @@ I'm a Masters student in AIML & DS with expertising in data analysis and reporti
 
 - Generate reports and perform data analysis by querying data using SQL.
 - Developing dashboards on Tableau and Excel.
-- Data analysis and reporting using Google Sheets and Excel.
+- Data analysis and reporting using Google Sheets and Microsoft Excel.
 - currently learning Python and its libraries
 
-## 🗺 Kasi's Portfolio 📑
+## 🗺 K's Portfolio 📑
 
-Here, I document a summary of some of my projects. 
+Here, I document a summary of my projects. 
  
 ***
 
-# SQL
+## 📜SQL
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
@@ -29,15 +29,16 @@ Here, I document a summary of some of my projects.
 |[![Google](https://img.shields.io/badge/Supermarket%20-4287F4?style=plastic&logo=google&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
 ***
-# Tableau
+## 🪄Tableau
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
 |[![Jenkins](https://img.shields.io/badge/Meta_StockPrice-%2300f.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Maang-working/Frontpage?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz contains the analysis of the Stock prices of company `META` for the past five Years and prediction analysis for the next one year.|
 |[![Jenkins](https://img.shields.io/badge/Netflix_Analysis-%23f43698.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/NETFLIX-casestudy/NETFLIX-Story?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard , Story Creation | This vizz contains the content & growth analysis of the company `Netflix` and offerred sugesstion and key strategy recommendations for the Growth .|
+
 ***
 
-# Microsoft Excel
+## 📗Microsoft Excel
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
