@@ -15,9 +15,40 @@ I'm a Masters student in AIML & DS with expertising in data analysis and reporti
 - Data analysis and reporting using Google Sheets and Excel.
 - currently learning Python and its libraries
 
+## 🗺 Kasi's Portfolio 📑
+
+Here, I document a summary of some of my projects. 
+ 
+***
+
+# SQL
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+|[![MySQL](https://img.shields.io/badge/DannyMa_SQL-%23002f.svg?style=plastic&logo=mysql&logoColor=white)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[![Google](https://img.shields.io/badge/Supermarket%20-4287F4?style=plastic&logo=google&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
+
+***
+# Tableau
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|----- |---|---|---|
+|[![Jenkins](https://img.shields.io/badge/Meta_StockPrice-%2300f.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Maang-working/Frontpage?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz contains the analysis of the Stock prices of company `META` for the past five Years and prediction analysis for the next one year.|
+|[![Jenkins](https://img.shields.io/badge/Netflix_Analysis-%23f43698.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/NETFLIX-casestudy/NETFLIX-Story?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard , Story Creation | This vizz contains the content & growth analysis of the company `Netflix` and offerred sugesstion and key strategy recommendations for the Growth .|
+***
+
+# Microsoft Excel
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|----- |---|---|---|
+|[![Microsoft Excel](https://img.shields.io/badge/Fashio_Shoppy-217346?style=plastic&logo=microsoft-excel&logoColor=white)](https://docs.google.com/spreadsheets/d/1cdF4qQGV9ex0Fje7is_Bgea8A6AivpC_/edit?usp=sharing&ouid=109672653420457884402&rtpof=true&sd=true)| Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz serves as the sales Analysis of Big Fashion Store named `Fahio Shoppy` who has branches allover Australia. (BEST viewed in Microsoft Excel fullscreen [Any Version])|
+
+***
+
 <details>
 <summary><b>👇🏼Connect with me</b></summary>
 <p>
+
 Feel free to text me !!!
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
@@ -26,6 +57,7 @@ Feel free to text me !!!
 [![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](kasi4muthu@outlook.com)
 </p>
 </details>
+
 <details>
 <summary><b>🛠️ Tools & Languages</b></summary>
 <p>
