@@ -34,7 +34,7 @@ Here, I document a summary of my projects.
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
 |[![Jenkins](https://img.shields.io/badge/Meta_StockPrice-%2300f.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Maang-working/Frontpage?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz contains the analysis of the Stock prices of company `META` for the past five Years and prediction analysis for the next one year.|
-|[![Jenkins](https://img.shields.io/badge/Netflix_Analysis-%23f43698.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/NETFLIX-casestudy/NETFLIX-Story?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard , Story Creation | This vizz contains the content & growth analysis of the company `NETFLIX` and offerred sugesstion and key strategy recommendations for the Growth .|
+|[![Jenkins](https://img.shields.io/badge/Netflix_Analysis-%23DD0031.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/NETFLIX-casestudy/NETFLIX-Story?:language=en-US&:display_count=n&:origin=viz_share_link)| Tableau, Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard , Story Creation | This vizz contains the content & growth analysis of the company `NETFLIX` and offerred sugesstion and key strategy recommendations for the Growth .|
 
 ***
 
