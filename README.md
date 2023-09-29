@@ -25,7 +25,7 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-|[![MySQL](https://img.shields.io/badge/DannyMa_SQL-%23002f.svg?style=plastic&logo=mysql&logoColor=white)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[![MySQL](https://img.shields.io/badge/DannyMa_SQL-FFE305?.svg?style=plastic&logo=mysql&logoColor=5849BE)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 |[![Google](https://img.shields.io/badge/Supermarket%20-4287F4?style=plastic&logo=google&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
 ***
