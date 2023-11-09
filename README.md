@@ -26,12 +26,14 @@ Here, I document a summary of my projects.
 |-----|---|---|---|
 | [![Netflix](https://img.shields.io/badge/Netflix-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This Repo serves as solution to **Netflix** raw contents & Exploratory Data Analysis has been done and offered suggestions and key strategy recommendations for the Growth of the company. |
 
+***
+
 ## 📜SQL
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-|[![MySQL](https://img.shields.io/badge/DannyMa_SQL-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=5849BE)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
-|[![Google](https://img.shields.io/badge/Supermarket%20-420000?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
+|[![MySQL](https://img.shields.io/badge/DannyMa_challenge-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=5849BE)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[![supermarket](https://img.shields.io/badge/-SuperMarket-%23870000?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
 ***
 ## 🪄Tableau
@@ -72,11 +74,11 @@ Feel free to text me !!!
   
 - ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)] ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) 
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%238F0000.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/Matplotlib-%23ff0077.svg?style=plastic&logo=deezer&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F25.svg?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=plastic&logo=solus&logoColor=black)
 
 - ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
   
-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=MicrosoftClipchamp&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=Designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
   </p>
 </details>
 <details>
