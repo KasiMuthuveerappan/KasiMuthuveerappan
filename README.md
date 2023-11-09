@@ -15,19 +15,23 @@ I'm a Masters student in AIML & DS with expertising in data analysis and reporti
 - Data analysis and reporting using Google Sheets and Microsoft Excel.
 - currently learning Python and its libraries
 
-## 🗺 K's Portfolio 📑
+## 👇![portfolio](https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
 
 Here, I document a summary of my projects. 
  
 ***
+## 🐍 Python & Libraries
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+| [![Netflix](https://img.shields.io/badge/Netflix-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This Repo serves as solution to **Netflix** raw contents & Exploratory Data Analysis has been done and offered suggestions and key strategy recommendations for the Growth of the company. |
 
 ## 📜SQL
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-|[![Github](https://img.shields.io/badge/-Telangana'sEG-181717?style=plastic&logo=anaconda&logoColor=white)](https://github.com/KasiMuthuveerappan/Telanganas-Economic-Growth)| Microsoft Excel, Bigquery, Tableau | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard, Story, Video presentation | This repo leverages the comprehensive & quantitative analysis of the state in India `TELANGANA` to achieve a sustainable Economic Growth. Click on this Button for the Tableau Dashboard and story [![Jupyter Notebook](https://img.shields.io/badge/Telangana'sEG-%23FA0F00.svg?style=plastic&logo=tableau&logoColor=white)](https://public.tableau.com/views/Telanganaseconomicgrowth-EDA-CaseStudy/Intro?:language=en-US&:display_count=n&:origin=viz_share_link)|
 |[![MySQL](https://img.shields.io/badge/DannyMa_SQL-FFE305?.svg?style=plastic&logo=mysql&logoColor=5849BE)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
-|[![Google](https://img.shields.io/badge/Supermarket%20-4287F4?style=plastic&logo=google&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
+|[![Google](https://img.shields.io/badge/Supermarket%20-4200FF?style=plastic&logo=google&logoColor=white)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
 ***
 ## 🪄Tableau
