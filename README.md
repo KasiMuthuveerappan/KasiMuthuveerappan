@@ -24,7 +24,8 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-| [![Netflix](https://img.shields.io/badge/Netflix-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This Repo serves as solution to **Netflix** raw contents & Exploratory Data Analysis has been done and offered suggestions and key strategy recommendations for the Growth of the company. |
+| [![Netflix](https://img.shields.io/badge/Netflix-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This repository conducts an Exploratory Data Analysis (EDA) on the OTT streaming platform `NETFLIX`, offering insights into user behavior, content trends, and key metrics to enhance understanding and inform strategic decisions. |
+| [![Aerofit](https://img.shields.io/badge/AEROFIT-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=blue)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data analysis, Data Exploration , Data Visualization, Descriptive Statistics & probability | This repository serves as a comprehensive solution for `AEROFIT` Company's Exploratory Data Analysis (EDA), employing descriptive statistics and probability to gain insights and inform strategic decisions.|
 
 ***
 
