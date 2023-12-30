@@ -24,8 +24,10 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
+| [![walmart](https://img.shields.io/badge/Walmart-%232081E2?style=for-the-badge&logo=Codepen&logoColor=yellow)](https://github.com/KasiMuthuveerappan/Walmart-BlackFridaySale-CaseStudy) | Numpy, Pandas, Matplotlib.plotpy, Seaborn,Central Limit Theorem,scipy.stats,boxcox | Data analysis, Data Exploration , Data Visualization, Statistics & probability, confidence interval |This repository provides a detailed exploration of Walmart's BlackFridaySales data using the Central Limit Theorem (CLT) coupled with Confidence Interval Analysis. Leveraging statistical techniques, we delve into the nuances of customer behavior, purchase patterns.|
+| [![Aerofit](https://img.shields.io/badge/AEROFIT-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=blue)](https://github.com/KasiMuthuveerappan/Aerofit-CaseStudy) | Numpy, Pandas, Matplotlib.plotpy, Seaborn, statistics , probability | Data analysis, Data Exploration , Data Visualization, Descriptive Statistics & probability | This repository serves as a comprehensive solution for `AEROFIT` Company's Exploratory Data Analysis (EDA), employing descriptive statistics and probability to gain insights and inform strategic decisions.|
 | [![Netflix](https://img.shields.io/badge/Netflix-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/KasiMuthuveerappan/Netflix-EDA) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This repository conducts an Exploratory Data Analysis (EDA) on the OTT streaming platform `NETFLIX`, offering insights into user behavior, content trends, and key metrics to enhance understanding and inform strategic decisions. |
-| [![Aerofit](https://img.shields.io/badge/AEROFIT-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=blue)](https://github.com/KasiMuthuveerappan/Aerofit-CaseStudy) | Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data analysis, Data Exploration , Data Visualization, Descriptive Statistics & probability | This repository serves as a comprehensive solution for `AEROFIT` Company's Exploratory Data Analysis (EDA), employing descriptive statistics and probability to gain insights and inform strategic decisions.|
+
 
 ***
 
@@ -33,7 +35,7 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-|[![MySQL](https://img.shields.io/badge/DannyMa_challenge-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=5849BE)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[![MySQL](https://img.shields.io/badge/DANNYMA's-SQL-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 |[![supermarket](https://img.shields.io/badge/-TARGET-e0e0e0?style=for-the-badge&logo=target&logoColor=red)](https://github.com/KasiMuthuveerappan/Supermarket_Analysis)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
 ***
