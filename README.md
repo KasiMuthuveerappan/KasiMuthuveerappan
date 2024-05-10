@@ -20,6 +20,15 @@ I'm a Masters student in AIML & DS with expertising in data analysis and reporti
 Here, I document a summary of my projects. 
  
 ***
+
+##  🤖 Machine Learning
+
+| Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
+|----- |---|---|---|
+| [![Jamboree](https://img.shields.io/badge/Jamboree-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://github.com/KasiMuthuveerappan/Jamboree-Institute) | Numpy, Pandas, Matplotlib, Seaborn, scipy, statsmodels, Standarization, Linear,Ridge,Lasso,ElasticNet Regression. | Exploratoy Data Analysis , Data Visualization, probability & Stats, Hypothesis Testing, FeatureEngineering, MachineLearning, Predictive Modelling.  | This repository provides an in-depth exploration of the predictive linear regression model tailored for `Jamboree` Institute students' data, with the goal of assisting their admission to international colleges. The analysis encompasses the application of Ridge, Lasso, and ElasticNet regressions to enhance predictive accuracy and robustness.|
+
+*** 
+
 ## 🐍 Python & Libraries
 
 | Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
