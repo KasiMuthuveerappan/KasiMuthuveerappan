@@ -15,7 +15,7 @@ I'm a Masters student in AIML & DS with expertising in data analysis and reporti
 - Data analysis and reporting using Google Sheets and Microsoft Excel.
 - currently learning Python and its libraries
 
-## 👇[![portfolio](https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://kasimuthuveerappan.carrd.co/)
+## 🤜🫸🫱[![portfolio](https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://kasimuthuveerappan.carrd.co/)🫲🫷🤛
 
 Here, I document a summary of my projects. 
  
