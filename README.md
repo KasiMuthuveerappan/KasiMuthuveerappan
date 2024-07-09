@@ -1,5 +1,5 @@
 ## 🙋 Introducing Myself
-<kbd>![Linkedin BG - Copy1](https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/4bda2b2f-341a-4fc7-9c3e-e267129a4651)
+<kbd>![Design 11 (10)](https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/1fb7bc5a-a5aa-4675-a3e4-5d1e14779433)
 <h1 align="center">Hey  <img src="https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/983dbe99-4122-4c21-936d-b65c6ca447a8" width="50">, This is Kasi </h1>
 <h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
 <h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
