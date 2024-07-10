@@ -1,23 +1,37 @@
 ## 🙋 Introducing Myself
 <kbd>![Design 11 (10)](https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/1fb7bc5a-a5aa-4675-a3e4-5d1e14779433)
 <h1 align="center">Hey  <img src="https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/983dbe99-4122-4c21-936d-b65c6ca447a8" width="50">, This is Kasi </h1>
-<h3 align="center">I'm a computer science graduate student specializing in Artificial Intelligence and Machine Learning, with a keen interest in unraveling the hidden stories within data.</h3>
-<h4 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h4>
+
+<h2 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h2>
+
+<p align="center">
+  <a href="https://kasimuthuveerappan.carrd.co/">
+    🤜🫸🫱<img src="https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="portfolio">🫲🫷🤛
+  </a>
+</p>
 
 
-## 🤷‍♂️ About Me:
-I'm a Masters student in AIML & DS with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
+### 🤷‍♂️ About Me:
+
+I'm a CS Masters student in AIML & DS with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
+
+
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
-
 
 - Generate reports and perform data analysis by querying data using SQL.
 - Developing dashboards on Tableau and Excel.
 - Data analysis and reporting using Google Sheets and Microsoft Excel.
-- currently learning Python and its libraries
+- Utlizing Python and its libraries for data manipulation and wrangling.
+- A brief EDA using Hypothesis Testing and Feature Engg using Scipy for Statistical Analysis.
+- Currently pioneering in Prompt Engineering and GenAi through HuggingFace🤗
+- Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
 
-## 🤜🫸🫱[![portfolio](https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://kasimuthuveerappan.carrd.co/)🫲🫷🤛
 
-Here, I document a summary of my projects. 
+
+
+📚 Here, I document a summary of my projects. 
+
+🗂️ Explore the index of all my works, and click on the project link icon to view detailed information.
  
 ***
 
@@ -25,7 +39,7 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
-| [![LoanTap](https://img.shields.io/badge/LoanTap-6001D2?style=for-the-badge&logo=tails&logoColor=magenta)]([https://github.com/KasiMuthuveerappan/Jamboree-Institute](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression) | Numpy, Pandas, Seaborn, scipy, sklearn, Normalization, LogisticRegression, Model optimization | EDA, Feature Engineering, Feature selection, MachineLearning, Predictive Modelling, Hyperparameter Tuning(λ), Cross_validation  | This repository delves into Logistic Regression for loan approval prediction at `LoanTap`. It covers data preprocessing, model development, evaluation metrics, and strategic business recommendations. Explored model optimization techniques to effectively mitigate default risks.|
+| [![LoanTap](https://img.shields.io/badge/LoanTap-6001D2?style=for-the-badge&logo=tails&logoColor=magenta)](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression) | Numpy, Pandas, Seaborn, scipy, sklearn, Normalization, LogisticRegression, Model optimization | EDA, Feature Engineering, Feature selection, MachineLearning, Predictive Modelling, Hyperparameter Tuning(λ), Cross_validation  | This repository delves into Logistic Regression for loan approval prediction at `LoanTap`. It covers data preprocessing, model development, evaluation metrics, and strategic business recommendations. Explored model optimization techniques to effectively mitigate default risks.|
 | [![Jamboree](https://img.shields.io/badge/Jamboree-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://github.com/KasiMuthuveerappan/Jamboree-Institute) | Numpy, Pandas, Matplotlib, Seaborn, scipy, statsmodels, Standarization, Linear,Ridge,Lasso,ElasticNet Regression. | Exploratory Data Analysis , Data Visualization, probability & Stats, Hypothesis Testing, FeatureEngineering, MachineLearning, Predictive Modelling.  | This repository provides an in-depth exploration of the predictive linear regression model tailored for `Jamboree` Institute students' data. The analysis encompasses the application of Ridge, Lasso, and ElasticNet regressions to enhance predictive accuracy and robustness.|
 
 *** 
@@ -65,39 +79,46 @@ Here, I document a summary of my projects.
 
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
-|[![Microsoft Excel](https://img.shields.io/badge/Fashio_Shoppy-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://docs.google.com/spreadsheets/d/1cdF4qQGV9ex0Fje7is_Bgea8A6AivpC_/edit?usp=sharing&ouid=109672653420457884402&rtpof=true&sd=true)| Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz serves as the sales Analysis of Big Fashion Store named `Fahio Shoppy` who has branches allover Australia. (BEST viewed in Microsoft Excel fullscreen [Any Version])|
+|[![Microsoft Excel](https://img.shields.io/badge/Fashio_Shoppy-217346?style=for-the-badge&logo=gnuicecat&logoColor=white)](https://docs.google.com/spreadsheets/d/1cdF4qQGV9ex0Fje7is_Bgea8A6AivpC_/edit?usp=sharing&ouid=109672653420457884402&rtpof=true&sd=true)| Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz serves as the sales Analysis of Big Fashion Store named `Fashio Shoppy` who has branches allover Australia. (BEST viewed in Microsoft Excel fullscreen [Any Version])|
 
 ***
 
-<details>
-<summary><b>👇🏼Connect with me</b></summary>
-<p>
 
+### <summary>👇🏼Connect with me</summary>
+
+<p>
 Feel free to text me !!!
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
-[![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
-[![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](kasi4muthu@outlook.com)
-</p>
-</details>
+> [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
 
-<details>
-<summary><b>🛠️ Tools & Languages</b></summary>
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
+
+> [![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
+
+> [![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=monero&logoColor=white)](kasi4muthu@outlook.com)
+
+
+</p>
+
+
+
+### <summary><b>🛠️ Tools & Languages</b></summary>
 <p>
   Here are some of the Tools and Languages that I use:
   
-- ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
+> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23ffffff.svg?style=plastic&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/Matplotlib-%23ff0077.svg?style=plastic&logo=deezer&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F25.svg?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffff00.svg?style=plastic&logo=solus&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
+> ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/VisualStudio-%20Code-0078d7.svg?style=plastic&logo=eclipse&logoColor=white)
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white)
 
-- ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+>  ![NumPy](https://img.shields.io/badge/Numpy-%23ffffff.svg?style=plastic&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/Matplotlib-%23ff0027.svg?style=plastic&logo=trello&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F25.svg?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffff00.svg?style=plastic&logo=solus&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+
+> ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=polywork&logoColor=white)
   
-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+> ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=protonmail&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=bitbucket&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
   </p>
-</details>
-<details>
-  <summary><b>👇🏼FORUMs</b></summary>
+
+###  <summary><b>👇🏼FORUMs</b></summary>
 
   Here are some of the platforms where I Practice : 
   
@@ -107,17 +128,17 @@ Feel free to text me !!!
   [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kasimuthu)
   
 
-</details>
-<details>
-  <summary><b>📱Profile Stats</b></summary>
+
+###  <summary><b>📱Profile Stats</b></summary>
   
-Statistics :
+####  Statistics :
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&theme=vision-friendly-dark&style=plastic" alt="kasimuthuveerappan" /> </p>
+> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&theme=vision-friendly-dark&style=plastic" alt="kasimuthuveerappan" /> </p>
 
-![kasi's github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
+ ![kasi's github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
-</details>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
+
+------------
