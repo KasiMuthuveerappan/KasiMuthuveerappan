@@ -27,12 +27,13 @@ I'm a CS Masters student in AIML & DS with expertising in data analysis and repo
 - Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
 
 
+#### 📚 Here, I document a summary of my project works. 
+
+## 📂 My Work Index 👇 
+
+### 🗂️ Explore the index of all my works, and click on the project link icon to view detailed information.
 
 
-📚 Here, I document a summary of my projects. 
-
-🗂️ Explore the index of all my works, and click on the project link icon to view detailed information.
- 
 ***
 
 ##  🤖 Machine Learning
