@@ -26,6 +26,7 @@ I'm a ComputerScience Masters student in AIML & DS with expertising in data anal
 - Currently pioneering in Prompt Engineering and GenAi through HuggingFace🤗
 - Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
 
+> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
 
 #### 📚 Here, I document a summary of my project works. 
 
