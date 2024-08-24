@@ -13,7 +13,7 @@
 
 ### 🤷‍♂️ About Me:
 
-I'm a CS Masters student in AIML & DS with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
+I'm a ComputerScience Masters student in AIML & DS with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
