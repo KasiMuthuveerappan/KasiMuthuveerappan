@@ -82,6 +82,7 @@ I'm a CS Masters student in AIML & DS with expertising in data analysis and repo
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
 |[![Microsoft Excel](https://img.shields.io/badge/Fashio_Shoppy-217346?style=for-the-badge&logo=gnuicecat&logoColor=white)](https://docs.google.com/spreadsheets/d/1cdF4qQGV9ex0Fje7is_Bgea8A6AivpC_/edit?usp=sharing&ouid=109672653420457884402&rtpof=true&sd=true)(click icon to view)| Microsoft Excel | Data cleaning , Data analysis, Data Exploration , Data Visualization , Dashboard | This vizz serves as the sales Analysis of Big Fashion Store named `Fashio Shoppy` who has branches allover Australia. (BEST viewed in Microsoft Excel fullscreen [Any Version])|
+|[![Microsoft Excel](https://img.shields.io/badge/Discounted_CashFlow-217346?style=for-the-badge&logo=firefox&logoColor=white)](https://docs.google.com/spreadsheets/d/1uGzeitO4MhT2dKWI0yOczk4-w6eRTuXb/edit?gid=1989436677#gid=1989436677)(click icon to view)| Microsoft Excel |  Income statement, Balance sheet, CashFlow, Debt, Equity, Terminal Value, Forcasted Valuation  |  This repository contains financial assessment tools designed to project future cash flows and estimate a company's valuation over a 5-year period. (BEST viewed in Microsoft Excel fullscreen [Any Version])|
 
 ***
 
