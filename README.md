@@ -18,12 +18,14 @@ I'm a ComputerScience Masters student in AIML & DS with expertising in data anal
 
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
 
-- Generate reports and perform data analysis by querying data using SQL.
-- Developing dashboards on Tableau and Excel.
-- Data analysis and reporting using Google Sheets and Microsoft Excel.
-- Utlizing Python and its libraries for data manipulation and wrangling.
-- A brief EDA using Hypothesis Testing and Feature Engg using Scipy for Statistical Analysis.
-- Currently pioneering in Prompt Engineering and GenAi through HuggingFace🤗
+- Proficient in querying large datasets using SQL to generate insightful reports and perform advanced data analysis.
+- Skilled in ad hoc analysis to support dynamic business needs and decision-making.
+- Experienced in designing and developing interactive dashboards using Tableau and Excel for data visualization and reporting.
+- Expertise in data analysis and reporting through Google Sheets and Microsoft Excel, delivering actionable insights.
+- Advanced skills in Python and its libraries (Pandas, NumPy, etc.) for data manipulation, cleaning, and wrangling.
+- Conduct exploratory data analysis (EDA) utilizing hypothesis testing and feature engineering, leveraging SciPy for statistical analysis.
+- Pioneering advancements in Prompt Engineering and Generative AI, actively working with Hugging Face 🤗 and related technologies.
+- Continuously expanding expertise in machine learning algorithms, including supervised and unsupervised models, for predictive analysis and decision support.
 - Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
 
 > <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
