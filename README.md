@@ -150,7 +150,13 @@ Feel free to text me !!!
 
  ![kasi's github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
+
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=vision-friendly-dark)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=dark)
+ <img src="https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="GitHub Streak Stats">
+
+
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
 
