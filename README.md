@@ -6,10 +6,9 @@
 
 <p align="center">
   <a href="https://kasimuthuveerappan.carrd.co/">
-    🤜🫸🫱<img src="https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" alt="portfolio">🫲🫷🤛
+    🤜🫸🫱<img src="https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=#FF7139" alt="portfolio">🫲🫷🤛
   </a>
 </p>
-
 
 ### 🤷‍♂️ About Me:
 
@@ -18,15 +17,24 @@ I'm a ComputerScience Masters student in AIML & DS with expertising in data anal
 
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
 
-- Proficient in querying large datasets using SQL to generate insightful reports and perform advanced data analysis.
-- Skilled in ad hoc analysis to support dynamic business needs and decision-making.
-- Experienced in designing and developing interactive dashboards using Tableau and Excel for data visualization and reporting.
-- Expertise in data analysis and reporting through Google Sheets and Microsoft Excel, delivering actionable insights.
-- Advanced skills in Python and its libraries (Pandas, NumPy, etc.) for data manipulation, cleaning, and wrangling.
-- Conduct exploratory data analysis (EDA) utilizing hypothesis testing and feature engineering, leveraging SciPy for statistical analysis.
-- Pioneering advancements in Prompt Engineering and Generative AI, actively working with Hugging Face 🤗 and related technologies.
-- Continuously expanding expertise in machine learning algorithms, including supervised and unsupervised models, for predictive analysis and decision support.
-- Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
+🚀 Skills & Expertise
+- Mastering SQL to extract and analyze large datasets, turning data into actionable insights.
+
+- Agile in Ad Hoc Analysis, providing dynamic support for business decisions.
+
+- Designing engaging, interactive dashboards with Tableau and Excel to bring data to life.
+
+- Proficient in Google Sheets and Excel for comprehensive data analysis and reporting.
+
+- Advanced in Python (with Pandas and NumPy) for seamless data manipulation and cleaning.
+
+- Expertise in EDA, leveraging Hypothesis Testing and Feature Engineering with SciPy for deeper insights.
+
+- Innovating in Prompt Engineering and Generative AI, working with cutting-edge tools like Hugging Face 🤗.
+
+- Continuously evolving with Machine Learning, mastering both Supervised and Unsupervised Models for predictive analytics.
+
+- Currently deepening knowledge of Machine Learning Algorithms for enhanced decision-making.
 
 > <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
 
@@ -43,6 +51,7 @@ I'm a ComputerScience Masters student in AIML & DS with expertising in data anal
 
 | Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
+| [![EnsembleLearning](https://img.shields.io/badge/EnsembleLearning-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://github.com/KasiMuthuveerappan/CAB-Ensemble-Learning-CHURN-Prediction)(click icon to view) | Numpy, Pandas, Matplotlib, Seaborn, scipy, KNN Imputation, SMOTE Oversampling, Decision Tree, Bagging & Bossting, RandomForest, XGboost. | Data cleaning, Exploratory Data Analysis , Data Visualization,  |This repository of `CAB CHRUNS - ENSEMBLE LEARNING` predicts OLA driver churn using ensemble methods—Bagging (Random Forest) and Boosting (XGBoost)—with KNN imputation and SMOTE. It reveals city-wise churn trends and key performance drivers, powering smarter, data-backed retention strategies for the ride-hailing industry. |
 | [![loandefaulters](https://img.shields.io/badge/Loan_Defaulters-%23ff0027.svg?style=for-the-badge&logo=gnuicecat&logoColor=white)](https://github.com/KasiMuthuveerappan/Fintech-Capstone)(click icon to view) | Numpy, Pandas, Matplotlib, Seaborn, scipy, boxcox, Anderson-Darling, Jarque_bera, Levene, Bartlett, RandomForest, XGboost. | Data cleaning, Exploratory Data Analysis , Data Visualization, Hypothesis Testing, Advanced Python, Normality Test, Variance Test |This repository of `Fintech Capestone - Loan Defaulters` contains the EDA of loan defaulters. It utilizes Random Forest and XGBoost to clean discrepancies, providing insights to enhance risk assessment and inform lending strategies, making it ideal for financial analysts to mitigate loan default risks. |
 | [![LoanTap](https://img.shields.io/badge/LoanTap-6001D2?style=for-the-badge&logo=tails&logoColor=magenta)](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression)(click icon to view)| Numpy, Pandas, Seaborn, scipy, sklearn, Normalization, LogisticRegression, Model optimization | EDA, Feature Engineering, Feature selection, MachineLearning, Predictive Modelling, Hyperparameter Tuning(λ), Cross_validation  | This repository delves into Logistic Regression for loan approval prediction at `LoanTap`. It covers data preprocessing, model development, evaluation metrics, and strategic business recommendations. Explored model optimization techniques to effectively mitigate default risks.|
 | [![IvyLeague-Admission](https://img.shields.io/badge/IvyLeague-Admission-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://github.com/KasiMuthuveerappan/IVY_League-Admission-LinearRegression)(click icon to view)| Numpy, Pandas, Matplotlib, Seaborn, scipy, statsmodels, Standarization, Linear,Ridge,Lasso,ElasticNet Regression. | Exploratory Data Analysis , Data Visualization, probability & Stats, Hypothesis Testing, FeatureEngineering, MachineLearning, Predictive Modelling.  | This repository provides an in-depth exploration of the predictive linear regression model tailored for `IvyLeague Admission Strategy` with students' data. The analysis encompasses the application of Ridge, Lasso, and ElasticNet regressions to enhance predictive accuracy and robustness.|
@@ -96,15 +105,17 @@ I'm a ComputerScience Masters student in AIML & DS with expertising in data anal
 ### <summary>👇🏼Connect with me</summary>
 
 <p>
-Feel free to text me !!!
+Feel free to connect with me via 👇🏼!!!
 
-> [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
+> [![Github](https://img.shields.io/badge/-Github/KasiMuthuveerappan-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
 
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn/KasiMuthuveerappan-0077B5?style=plastic&logo=Trello&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
 
-> [![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
+> [![Google Meet](https://img.shields.io/badge/Google%20Meet/KasiMuthuveerappan-00897B?style=plastic&logo=google-meet&logoColor=white)](mailto:kasi4muthu@gmail.com) 
 
-> [![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=monero&logoColor=white)](kasi4muthu@outlook.com)
+> [![Gmail Badge](https://img.shields.io/badge/KasiMuthuveerappan-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
+
+> [![Outlook](https://img.shields.io/badge/KasiMuthuveerappan-0078D4?style=plastic&logo=monero&logoColor=white)](kasi4muthu@outlook.com)
 
 
 </p>
@@ -115,31 +126,24 @@ Feel free to text me !!!
 <p>
   Here are some of the Tools and Languages that I use:
   
-> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
+> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) 
 
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/VisualStudio-%20Code-0078d7.svg?style=plastic&logo=eclipse&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white)
 
->  ![NumPy](https://img.shields.io/badge/Numpy-%23ffffff.svg?style=plastic&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/Matplotlib-%23ff0027.svg?style=plastic&logo=trello&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F25.svg?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffff00.svg?style=plastic&logo=solus&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+>  ![NumPy](https://img.shields.io/badge/Numpy-%23ffffff.svg?style=plastic&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/Matplotlib-%23ff0027.svg?style=plastic&logo=trello&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F25.svg?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffff00.svg?style=plastic&logo=solus&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![X](https://img.shields.io/badge/XGBoost-%23000000.svg?style=plastic&logo=X&logoColor=white) ![Imblearn](https://img.shields.io/badge/Imblearn-002333?style=plastic&logo=scrimba&logoColor=00FF84)
 
-> ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=polywork&logoColor=white)
+
+> ![Jenkins](https://img.shields.io/badge/Tableau-%232C3563.svg?style=plastic&logo=octopusdeploy&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=polywork&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
   
-> ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=protonmail&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=bitbucket&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+> ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=protonmail&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=bitbucket&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
   </p>
 
-###  <summary><b>👇🏼FORUMs</b></summary>
+###  <summary><b>👇🏼Practice FORUMs</b></summary>
 
   Here are some of the platforms where I Practice : 
   
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Kasi_Muthuveerappan)  
-  
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kasi4muthu)  
-    
-  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/kasimuthuveerappan)  
-  
-  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kasimuthu)  
-  
-  [![HuggingFace](https://img.shields.io/badge/HuggingFace-goldenrod?style=plastic&logo=HuggingFace&logoColor=white)](https://huggingface.co/KasiMuthuveerappan)
+  > [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Kasi_Muthuveerappan)   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/kasi4muthu)  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/kasimuthuveerappan)    [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kasimuthu)    [![HuggingFace](https://img.shields.io/badge/HuggingFace-goldenrod?style=plastic&logo=HuggingFace&logoColor=white)](https://huggingface.co/KasiMuthuveerappan)  [![InterviewBit](https://img.shields.io/badge/Interview%20Bit-DE0045?style=plastic&logo=futurelearn&logoColor=white)](https://www.interviewbit.com/profile/kasi_681/)   [![DataLemur](https://img.shields.io/badge/DataLemur-%23B92B27.svg?style=plastic&logo=Quora&logoColor=white)](https://datalemur.com/profile)
 
   
 ###  <summary><b>📱Profile Stats</b></summary>
@@ -152,10 +156,6 @@ Feel free to text me !!!
 
 
  ![GitHub Streak](https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=vision-friendly-dark)
- ![GitHub Streak](https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=dark)
- <img src="https://streak-stats.demolab.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="GitHub Streak Stats">
-
-
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
