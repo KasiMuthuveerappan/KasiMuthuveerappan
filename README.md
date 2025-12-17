@@ -129,7 +129,7 @@ Feel free to connect with me via 👇🏼!!!
 <p>
   Here are some of the Tools and Languages that I use:
   
-> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) 
+> ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Apache Hive](https://img.shields.io/badge/BEE%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) 
 
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/VisualStudio-%20Code-0078d7.svg?style=plastic&logo=eclipse&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white)
