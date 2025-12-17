@@ -1,6 +1,6 @@
 ## 🙋 Introducing Myself
 <kbd>![Design 11 (10)](https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/1fb7bc5a-a5aa-4675-a3e4-5d1e14779433)
-<h1 align="center">Hey  <img src="https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/983dbe99-4122-4c21-936d-b65c6ca447a8" width="50">, This is Kasi </h1>
+<h1 align="center">Hey  <img src="https://github.com/KasiMuthuveerappan/KasiMuthuveerappan/assets/142071405/983dbe99-4122-4c21-936d-b65c6ca447a8" width="50">,  This is KASI</h1>
 
 <h2 align="center"> 🌟 Welcome to my GitHub profile! 🌟</h2>
 
@@ -9,6 +9,7 @@
     🤜🫸🫱<img src="https://img.shields.io/badge/K's_Portfolio-FEAA2D?style=for-the-badge&logo=deezer&logoColor=#FF7139" alt="portfolio">🫲🫷🤛
   </a>
 </p>
+
 
 ### 🤷‍♂️ About Me:
 
@@ -36,7 +37,7 @@ ComputerScience Masters student in AIML & DS with expertising in data analysis a
 
 - Currently deepening knowledge of Machine Learning Algorithms for enhanced decision-making.
 
-> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
+> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=00897B&style=plastic" alt="kasimuthuveerappan" width="250" height="35" /> </p>
 
 #### 📚 Here, I document a summary of my project works. 
 
@@ -51,7 +52,7 @@ ComputerScience Masters student in AIML & DS with expertising in data analysis a
 
 | Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
-| [![Zee5_Recommender](https://img.shields.io/badge/Recommendation-ZEE5-e0e0e0?style=for-the-badge&logo=proto.io&logoColor=white)](https://github.com/KasiMuthuveerappan/Recommendation_System)(click icon to view) | Numpy, Pandas, Suprise SVD, Matrix factorization, cosine similarity, NDCG, MRR | Data cleaning, Exploratory Data Analysis , Data Visualization, Recommendation_system - Pearson correlation, KNN, Collaborative_filtering, Matrix Factorization, Evaluation metrics.  | 🎬 This repository focuses on building a personalized movie recommender system for `ZEE5` using collaborative filtering, content-based methods, and matrix factorization, Pearson correlation, Suprise SVD techniques to deliver accurate, user-relevant recommendations & evaluated through NDCG, MRR, MAPE. |
+| [![Zee5_Recommender](https://img.shields.io/badge/ZEE5-Recommender-470137?style=for-the-badge&logo=proto.io&logoColor=white)](https://github.com/KasiMuthuveerappan/Recommendation_System)(click icon to view) | Numpy, Pandas, Suprise SVD, Matrix factorization, cosine similarity, NDCG, MRR | Data cleaning, Exploratory Data Analysis , Data Visualization, Recommendation_system - Pearson correlation, KNN, Collaborative_filtering, Matrix Factorization, Evaluation metrics.  | 🎬 This repository focuses on building a personalized movie recommender system for `ZEE5` using collaborative filtering, content-based methods, and matrix factorization, Pearson correlation, Suprise SVD techniques to deliver accurate, user-relevant recommendations & evaluated through NDCG, MRR, MAPE. |
 | [![TimeSeriesForecast](https://img.shields.io/badge/TimeSeries-Forecast-e0e0e0?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/KasiMuthuveerappan/MarketingStrategy_Time-Series-Forecasting)(click icon to view) | Numpy, Pandas, statsmodel, Exponential smoothing, ARIMA, SARIMA, SARIMAX, FB-ProPhet  | Data cleaning, Exploratory Data Analysis , Data Visualization, Timeseries Forcasting with Exog variables, SES, DES, TES.  | This repository `MarketingStrategy_Time-Series-Forecasting` focuses on time series forecasting for AdEase to predict Wikipedia page views and optimize ad placements using ARIMA, SARIMAX, and Prophet models, analyzes trends, seasonality, using exogenous data, providing actionable insights and strategic recommendations for improving ad performance across different languages. |
 | [![EnsembleLearning](https://img.shields.io/badge/EnsembleLearning-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://github.com/KasiMuthuveerappan/CAB-Ensemble-Learning-CHURN-Prediction)(click icon to view) | Numpy, Pandas, Matplotlib, Seaborn, scipy, KNN Imputation, SMOTE Oversampling, Decision Tree, Bagging & Bossting, RandomForest, XGboost. | Data cleaning, Exploratory Data Analysis , Data Visualization, Churn analysis, Imbalance Learning.  |This repository of `CAB CHRUNS - ENSEMBLE LEARNING` predicts OLA driver churn using ensemble methods—Bagging (Random Forest) and Boosting (XGBoost)—with KNN imputation and SMOTE. It reveals city-wise churn trends and key performance drivers, powering smarter, data-backed retention strategies for the ride-hailing industry. |
 | [![loandefaulters](https://img.shields.io/badge/Loan_Defaulters-%23ff0027.svg?style=for-the-badge&logo=gnuicecat&logoColor=white)](https://github.com/KasiMuthuveerappan/Fintech-Capstone)(click icon to view) | Numpy, Pandas, Matplotlib, Seaborn, scipy, boxcox, Anderson-Darling, Jarque_bera, Levene, Bartlett, RandomForest, XGboost. | Data cleaning, Exploratory Data Analysis , Data Visualization, Hypothesis Testing, Advanced Python, Normality Test, Variance Test |This repository of `Fintech Capestone - Loan Defaulters` contains the EDA of loan defaulters. It utilizes Random Forest and XGBoost to clean discrepancies, providing insights to enhance risk assessment and inform lending strategies, making it ideal for financial analysts to mitigate loan default risks. |
